@@ -1,2 +1,2 @@
-# CE-Project
+# Quedia
 Collective Encoding Project
