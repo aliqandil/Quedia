@@ -1,0 +1,4 @@
+### Quedia Versions:
+
+- V0.00:
+	- Very Simple Web Application.

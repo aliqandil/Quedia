@@ -1,0 +1,2 @@
+Touch this file to reload the uwsgi server:
+ -> touch touch-this-file
